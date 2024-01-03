@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZ6LJzTvLVbkiHsl5ROVbfQ0o6DRZlGXs2za2C+NUeD2IxF8/MTwt9z51t6RlbGeL9qZUWrXl1f7LXM49dwa9g==",
+  "dgSpecHash": "84bS3LqTs7p1m1F0zqhXkEB6I8jmOdj83Zc5OCIbFtbwq9HehawIffNTgJNWL5bAgrQ6/pn+D3jQsZhnvnCDpg==",
   "success": true,
-  "projectFilePath": "/Users/cahityusufkafadar/Documents/Projects/POC/FeatureFlag/FeatureFlag/FeatureFlag/FeatureFlag.csproj",
+  "projectFilePath": "/Users/cahityusufkafadar/Documents/Projects/Github Repos/FeatureFlag/FeatureFlag/FeatureFlag/FeatureFlag.csproj",
   "expectedPackageFiles": [
     "/Users/cahityusufkafadar/.nuget/packages/microsoft.extensions.configuration/2.1.1/microsoft.extensions.configuration.2.1.1.nupkg.sha512",
     "/Users/cahityusufkafadar/.nuget/packages/microsoft.extensions.configuration.abstractions/2.1.1/microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
