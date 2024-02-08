@@ -4,10 +4,13 @@
         <TargetFramework>net6.0</TargetFramework>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>f0419cf1-5082-430b-a679-45b8b06a0f79</UserSecretsId>
+        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.FeatureManagement.AspNetCore" Version="2.5.1" />
+      <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.5" />
     </ItemGroup>
 
 </Project>
