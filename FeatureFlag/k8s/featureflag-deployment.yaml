@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: featureflag
-          image: cahityusuf/featureflag:v1 #$(Build.BuildId)
+          image: cahityusuf/featureflag:${env.BUILD_NUMBER}
           imagePullPolicy: Always
           ports:
             - containerPort: 80
