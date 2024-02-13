@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: featureflag
-          image: cahityusuf/featureflag:32
+          image: cahityusuf/featureflag:33
           imagePullPolicy: Always
           ports:
             - containerPort: 80
