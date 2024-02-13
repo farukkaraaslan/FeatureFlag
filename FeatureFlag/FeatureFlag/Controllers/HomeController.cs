@@ -12,7 +12,7 @@ public class HomeController : Controller
 
     public HomeController(ILogger<HomeController> logger, IFeatureManager featureManager)
     {
-        _logger = logger;
+        _logger = logger; //test
         _featureManager = featureManager;
     }
 
